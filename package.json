@@ -1,0 +1,14 @@
+{
+  "name": "node-filename-random",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "sebastiangolian <sebastiangolian@gmail.com>",
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "node-id3": "0.1.13"
+  }
+}
