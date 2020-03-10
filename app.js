@@ -1,8 +1,8 @@
 const fse = require('fs-extra');
 const id3 = require('node-id3')
 
-const pathSource = "S:\\06.Muzyka\\bieganie\\"
-const pathDestination = "M:\\"
+const pathSource = "d:\\muzyka\\bieganie\\"
+const pathDestination = "p:\\"
 
 console.log('------------ node-filename-random ------------')
 fse.emptyDirSync(pathDestination);
