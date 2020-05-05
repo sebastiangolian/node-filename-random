@@ -1,6 +1,6 @@
 {
-  "name": "node-filename-random",
-  "version": "1.0.0",
+  "name": "node-mp3-name-changer",
+  "version": "1.1.0",
   "description": "",
   "main": "app.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "author": "sebastiangolian <sebastiangolian@gmail.com>",
   "dependencies": {
-    "fs-extra": "^8.1.0",
-    "node-id3": "0.1.13"
+    "fs-extra": "^9.0.0",
+    "node-id3": "0.1.16"
   }
 }

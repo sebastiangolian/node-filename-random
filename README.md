@@ -1,4 +1,4 @@
-# node-filename-random
+# node-mp3-name-changer
 Node application to copy files and gives random names
 
 ## Getting started
